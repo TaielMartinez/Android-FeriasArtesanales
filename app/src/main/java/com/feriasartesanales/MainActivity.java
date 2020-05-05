@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void count_text(){
-        TextView count_text=(TextView)findViewById(R.id.contador);
-        count_text.setText("Cdor: " + count);
+        TextView count_text=(TextView)findViewById(R.id.text_num);
+        count_text.setText("" + count);
 
     }
 
