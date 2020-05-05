@@ -6,6 +6,10 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Siguiente</string>
     <string name="previous">Previous</string>
+    <string name="down">Bajar</string>
+    <string name="reset">resetear</string>
+    <string name="sum">Sumar</string>
+    <string name="count">Contador:</string>
 
     <string name="hello_first_fragment">Hola</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
